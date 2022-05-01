@@ -1,0 +1,3 @@
+
+# Create a temporary interactive container
+kubectl run -i --tty temp --image ubuntu:18.04g
